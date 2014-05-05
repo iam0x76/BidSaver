@@ -99,11 +99,11 @@ function OnOrder( order )
 end
 
 function main()
-	message("BidSave  plugin started" , 1 )
+	message("BidSaver  plugin started" , 1 )
 	
  	while not stopped do
 		sleep(100)
 	end
 	hFile:close( )
-	message("BidSave  plugin  stopped" , 1)
+	message("BidSaver  plugin  stopped" , 1)
 end
