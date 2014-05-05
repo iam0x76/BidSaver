@@ -2,7 +2,7 @@ BidSaver Plugin
 ========
 
 By default in QUIK  terminal you can't view/save all your orders.
-If you install this plugin all your  orders will be saved in csv file.
+If you install this plugin all your  orders will be saved in csv file automaticly.
 
 EXAMPLE :
 
