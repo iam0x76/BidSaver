@@ -101,6 +101,12 @@ end
 function main()
 	message("BidSaver  plugin started" , 1 )
 	
+	if hFile == nil then
+		
+		stopped = true
+		message("Can't create csv file",3)
+	end
+	
  	while not stopped do
 		sleep(100)
 	end
